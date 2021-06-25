@@ -9,7 +9,27 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <h1 className="text-2xl font-bold">Next.js tailwind boilerplate</h1>
+      <h1 className="text-2xl font-bold">
+        Next.js tailwind boilerplate
+        <br></br>
+        <input
+          className="border-b-2 ml-[45%] border-black outline-none"
+          type="text"
+          placeholder="Username"
+        ></input>
+        <br></br>
+        <input
+          className="border-b-2 ml-[45%] border-black outline-none"
+          type="text"
+          placeholder="Password"
+        ></input>
+        <br></br>
+        <input
+          className="border-b-2 ml-[45%] border-black outline-none"
+          type="text"
+          placeholder="Username"
+        ></input>
+      </h1>
     </div>
   );
 }
