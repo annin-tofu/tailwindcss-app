@@ -40,3 +40,4 @@ npm install
 ```
 You are ready to go 🥳
 # tailwindcss-app
+# tailwindcss-app
